@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'AppleSDGothicNeo';
+  src: url('./assets/fonts/AppleSDGothicNeoR.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'AppleSDGothicNeo';
+  src: url('./assets/fonts/AppleSDGothicNeoSB.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'AppleSDGothicNeo';
+  src: url('./assets/fonts/AppleSDGothicNeoB.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'AppleSDGothicNeo';
+  src: url('./assets/fonts/AppleSDGothicNeoH.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Intelo';
+  src: url('./assets/fonts/Intelo-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Intelo';
+  src: url('./assets/fonts/Intelo-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Intelo';
+  src: url('./assets/fonts/Intelo-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Intelo';
+  src: url('./assets/fonts/Intelo-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 400;
+}
